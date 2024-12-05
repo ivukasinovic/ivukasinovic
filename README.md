@@ -6,6 +6,7 @@
 - 💬 &nbsp;Ask me about anything related to **Javascript/Typescript/Python or React/Express/Django** or programming in general
 - 👨‍💻 &nbsp;Read more about my projects at [ivanvukasinovic.com](https://www.ivanvukasinovic.com)
 - ⚡ &nbsp;Fun fact: I :heart: 🎣 and 📚
+- 💻 &nbsp; I’m coding something every day 🤩 
 
 - 📫 How to reach me **contact@ivanvukasinovic.com**
 
